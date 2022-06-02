@@ -1,0 +1,12 @@
+﻿  graph_complement.cpp
+C:\Users\37544\source\repos\graph_complement\graph_complement\graph_complement.cpp(120,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\graph_complement\graph_complement\graph_complement.cpp(165,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\graph_complement\graph_complement\graph_complement.cpp(188,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\graph_complement\graph_complement\graph_complement.cpp(195,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\graph_complement\graph_complement\graph_complement.cpp(202,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\graph_complement\graph_complement\graph_complement.cpp(202,41): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\graph_complement\graph_complement\graph_complement.cpp(214,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\graph_complement\graph_complement\graph_complement.cpp(222,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\graph_complement\graph_complement\graph_complement.cpp(233,21): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\graph_complement\graph_complement\graph_complement.cpp(236,21): warning C4018: <: несоответствие типов со знаком и без знака
+  graph_complement.vcxproj -> C:\Users\37544\source\repos\graph_complement\Debug\graph_complement.exe
