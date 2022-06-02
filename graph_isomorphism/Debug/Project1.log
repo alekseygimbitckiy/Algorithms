@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  graph_isomorphism.cpp
+C:\Users\37544\source\repos\Project240\Project1\graph_isomorphism.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\Project240\Project1\graph_isomorphism.cpp(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\Project240\Project1\graph_isomorphism.cpp(82,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\Project240\Project1\graph_isomorphism.cpp(305,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\Project240\Project1\graph_isomorphism.cpp(330,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\Project240\Project1\graph_isomorphism.cpp(409,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\Project240\Project1\graph_isomorphism.cpp(433,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\Project240\Project1\graph_isomorphism.cpp(474,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Project1.vcxproj -> C:\Users\37544\source\repos\Project240\Debug\Graph_Isomorphism.exe
